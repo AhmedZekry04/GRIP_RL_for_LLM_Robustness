@@ -383,3 +383,23 @@ DeepMathGAP is derived work. If you use it, cite both sources:
 Source dataset: [`zwhe99/DeepMath-103K`](https://huggingface.co/datasets/zwhe99/DeepMath-103K) ·
 GAP code: [`YurenHao0426/GAP`](https://github.com/YurenHao0426/GAP) ·
 Answer checking: [`huggingface/math-verify`](https://github.com/huggingface/math-verify).
+
+## 7. Third-party attribution
+
+- **DeepMath-103K** (He et al., 2025) is released under the MIT License.
+  Every `question` and `answer` in `k = 0` rows, and the text that the
+  `k = 1..3` variants are derived from, comes from DeepMath-103K. Copyright
+  in that material belongs to the DeepMath-103K authors, and its MIT
+  license notice applies to it.
+- **GAP framework** (Hao, Wan & Zhai, 2025) code is released under
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Three parts of
+  this pipeline are adapted from it. The changes are listed in §4:
+  - the garbled-name generator and substitution boundary rule, from
+    `mini_gap_math.py` (`pipeline/gs.py`, `pipeline/substitution.py`);
+  - the slot-discovery and back-synthesis design, from `kv_math_200.py`
+    (`pipeline/kv.py`);
+  - the `\boxed{}` answer extraction, from `kv_math_200.py`
+    (`pipeline/kv.py`).
+- DeepMathGAP contains **no Putnam problems**. The four MAA problem-book
+  citations that the GAP repository requires apply to the PutnamGAP
+  dataset, not to this one.

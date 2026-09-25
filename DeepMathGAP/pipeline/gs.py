@@ -3,9 +3,10 @@ Stage 2 — GS (Garbled String) variant. Deterministic, no API calls.
 
 Every tagged var/param is renamed to a random letter-first alphanumeric
 string of length 4-16, in both the question and the answer. Adapted from
-GAP's `mini_gap_math.py` (generate_garbled_name / apply_surface_rename), with
-LLM-tagged tokens instead of regex-mined ones, a per-problem seeded RNG, and
-a collision check against the problem text.
+GAP's `mini_gap_math.py` (generate_garbled_name / apply_surface_rename;
+https://github.com/YurenHao0426/GAP, CC BY 4.0). Changes: LLM-tagged tokens
+instead of regex-mined ones, a per-problem seeded RNG, letter-first names of
+length 4-16, and a collision check against the problem text.
 
     python -m pipeline.gs
 """

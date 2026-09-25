@@ -2,7 +2,8 @@
 LaTeX-aware identifier substitution shared by GS and DLM.
 
 Boundary rule adapted from GAP's `mini_gap_math.py::replace_in_math`
-(`(?<![a-zA-Z\\])tok(?![a-zA-Z])`), with three changes:
+(`(?<![a-zA-Z\\])tok(?![a-zA-Z])`; https://github.com/YurenHao0426/GAP,
+CC BY 4.0), with three changes:
 
 1. The lookahead also blocks a following digit, so `x` never matches inside
    a distinct identifier such as `x2`.

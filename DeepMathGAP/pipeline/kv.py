@@ -13,9 +13,10 @@ Per attempt (at most 3 per problem):
      written to pending_attempt{N+1}.json for the next attempt; after attempt
      3 they are discarded, which later drops the whole group at assembly.
 
-Adapted from GAP's `kv_math_200.py` (slot discovery + back-synthesis), with
-the two calls merged into one and GAP's 3-judge accept/reject vote replaced
-by blind re-solving plus the structural diff check.
+Adapted from GAP's `kv_math_200.py` (slot discovery + back-synthesis, and
+the \\boxed{} extraction; https://github.com/YurenHao0426/GAP, CC BY 4.0),
+with the two calls merged into one and GAP's 3-judge accept/reject vote
+replaced by blind re-solving plus the structural diff check.
 
     python -m pipeline.kv build-synth --attempt N [--pending FILE] [--submit]
     python -m pipeline.kv poll-synth --attempt N --batch-id IDS
