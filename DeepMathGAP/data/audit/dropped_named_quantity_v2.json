@@ -1,0 +1,10455 @@
+{
+  "dmgap_000051": [
+    {
+      "token": "y=2",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y=4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000145": [
+    {
+      "token": "(0,0,100)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000264": [
+    {
+      "token": "a + b + c = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000277": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000374": [
+    {
+      "token": "(0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000469": [
+    {
+      "token": "(1,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000491": [
+    {
+      "token": "primitive root",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000545": [
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000639": [
+    {
+      "token": "x = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000773": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000855": [
+    {
+      "token": "(1, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 0, -1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-2, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1, -1, -1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000860": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000868": [
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_000924": [
+    {
+      "token": "y=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_001148": [
+    {
+      "token": "plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_001220": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_001292": [
+    {
+      "token": "z+x=5",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z+x=6",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_001296": [
+    {
+      "token": "plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_001344": [
+    {
+      "token": "xy=4",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "xy=8",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_001448": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_001452": [
+    {
+      "token": "z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_001491": [
+    {
+      "token": "Galois group",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_001619": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_001730": [
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_002010": [
+    {
+      "token": "Five",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_002126": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_002167": [
+    {
+      "token": "five",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_002317": [
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_002684": [
+    {
+      "token": "a+b+c=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_002774": [
+    {
+      "token": "x=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_002815": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_002974": [
+    {
+      "token": "(1,0,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,1,4,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003069": [
+    {
+      "token": "(-1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003142": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003194": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003197": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x=-1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003199": [
+    {
+      "token": "(1,2,-2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003237": [
+    {
+      "token": "(0, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003325": [
+    {
+      "token": "eight",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003370": [
+    {
+      "token": "x + y + z = 3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003527": [
+    {
+      "token": "(3, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003580": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003591": [
+    {
+      "token": "(-3,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003634": [
+    {
+      "token": "(0, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 2, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_003807": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_004198": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(8,14)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_004292": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_004402": [
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_004460": [
+    {
+      "token": "(0, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 0, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 0, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_004540": [
+    {
+      "token": "(2,2,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,4,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_004811": [
+    {
+      "token": "xy-plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_004840": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(7,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_004852": [
+    {
+      "token": "primitive root",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_004875": [
+    {
+      "token": "(1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_005087": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_005163": [
+    {
+      "token": "x=2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_005227": [
+    {
+      "token": "(0, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 0, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_005264": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,2,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_005365": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_005420": [
+    {
+      "token": "(1,1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_005532": [
+    {
+      "token": "transition matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_005919": [
+    {
+      "token": "p=0.5",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "X=7",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_005929": [
+    {
+      "token": "(8,3,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_005984": [
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006005": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006064": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006129": [
+    {
+      "token": "four",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "three",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006227": [
+    {
+      "token": "x+y+z=6",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006228": [
+    {
+      "token": "y = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006423": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = 8",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006458": [
+    {
+      "token": "five",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006488": [
+    {
+      "token": "12 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006493": [
+    {
+      "token": "(1, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006600": [
+    {
+      "token": "x+y=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006655": [
+    {
+      "token": "y = 4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006810": [
+    {
+      "token": "seconds",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006831": [
+    {
+      "token": "expected number of steps",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "transition matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_006972": [
+    {
+      "token": "x = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x = 3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_007046": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_007121": [
+    {
+      "token": "nine",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "four",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_007167": [
+    {
+      "token": "1 day",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "4 days",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "2 days",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_007197": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5,0,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_007248": [
+    {
+      "token": "(0,0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,-1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-5,4,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_007308": [
+    {
+      "token": "octagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_007391": [
+    {
+      "token": "GF(64)",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_007442": [
+    {
+      "token": "hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_007564": [
+    {
+      "token": "(3.052, 0, 1.456)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 3.052, 1.456)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_007784": [
+    {
+      "token": "(3,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_007854": [
+    {
+      "token": "x = -1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_008195": [
+    {
+      "token": "m = 9874",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_008250": [
+    {
+      "token": "(2, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_008340": [
+    {
+      "token": "expected number of coin flips",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_008393": [
+    {
+      "token": "(0, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_008437": [
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_008554": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_008620": [
+    {
+      "token": "(1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_008712": [
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(9, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_008726": [
+    {
+      "token": "90 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "85 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_008817": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_008887": [
+    {
+      "token": "squares",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_008919": [
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_009009": [
+    {
+      "token": "y = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x = 4",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x = 7",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_009182": [
+    {
+      "token": "unit ball",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_009242": [
+    {
+      "token": "(3,0,2,1,3,2,1,0,2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_009417": [
+    {
+      "token": "unit ball",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_009512": [
+    {
+      "token": "(1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_009581": [
+    {
+      "token": "cube",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_009740": [
+    {
+      "token": "x + 2y + a = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_009882": [
+    {
+      "token": "last two digits",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_010217": [
+    {
+      "token": "(0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,-2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_010226": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_010712": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(8,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,8,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,9)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_010762": [
+    {
+      "token": "(3, 6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_010840": [
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_010888": [
+    {
+      "token": "unit sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_010970": [
+    {
+      "token": "(1, 3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_011002": [
+    {
+      "token": "y+z=2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_011026": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_011032": [
+    {
+      "token": "z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_011038": [
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_011051": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_011124": [
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_011597": [
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_011721": [
+    {
+      "token": "(0, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_011853": [
+    {
+      "token": "(-1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,-2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_011971": [
+    {
+      "token": "transition matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_012045": [
+    {
+      "token": "x+y=1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x+y=4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_012063": [
+    {
+      "token": "expected value",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_012188": [
+    {
+      "token": "(0,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_012351": [
+    {
+      "token": "(-1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,-2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_012364": [
+    {
+      "token": "paraboloid",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "cylinder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_012579": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_012615": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_012837": [
+    {
+      "token": "(1,2,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,2,-2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_012877": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013067": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013095": [
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013134": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013227": [
+    {
+      "token": "(2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013229": [
+    {
+      "token": "6 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013323": [
+    {
+      "token": "x + y + z = 4",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "xyz = -60",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "xy + xz + yz = -17",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013446": [
+    {
+      "token": "(5,-1,-7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013600": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013618": [
+    {
+      "token": "(0, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013749": [
+    {
+      "token": "xy=1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013759": [
+    {
+      "token": "(1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013840": [
+    {
+      "token": "(0,0,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013911": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013918": [
+    {
+      "token": "(3, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 3, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 0, 3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_013963": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_014076": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_014125": [
+    {
+      "token": "(2,3,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_014163": [
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_014181": [
+    {
+      "token": "(2,2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_014212": [
+    {
+      "token": "3x3 matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_014487": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_014614": [
+    {
+      "token": "365 days",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "1000 days",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_014897": [
+    {
+      "token": "(0,2,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_014933": [
+    {
+      "token": "Y=2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_015235": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_015353": [
+    {
+      "token": "(-2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_015490": [
+    {
+      "token": "characteristic polynomial",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_015557": [
+    {
+      "token": "determinant",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_015589": [
+    {
+      "token": "(4,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_015622": [
+    {
+      "token": "(1, 2, 3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, -3, -2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_015742": [
+    {
+      "token": "(-1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016028": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016213": [
+    {
+      "token": "x = -2",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x = 6",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016237": [
+    {
+      "token": "15 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016257": [
+    {
+      "token": "u = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "u = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "v = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "v = 3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016258": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016334": [
+    {
+      "token": "(2,2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016545": [
+    {
+      "token": "(1,1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016657": [
+    {
+      "token": "(1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016801": [
+    {
+      "token": "(1.25, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016891": [
+    {
+      "token": "sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016914": [
+    {
+      "token": "xy-plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016936": [
+    {
+      "token": "x = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_016960": [
+    {
+      "token": "z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_017095": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_017096": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_017117": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_017478": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_017505": [
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_017725": [
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_017728": [
+    {
+      "token": "(2,3,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,-5,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(6,1,6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,6,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_017797": [
+    {
+      "token": "unit sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_017956": [
+    {
+      "token": "(-3, 7, -13)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-6, 1, -10)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_018003": [
+    {
+      "token": "(0, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_018348": [
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_018393": [
+    {
+      "token": "(-1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_018394": [
+    {
+      "token": "primitive root",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_018412": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_018473": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_018607": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_018696": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_018713": [
+    {
+      "token": "(0,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_018772": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_019219": [
+    {
+      "token": "(-1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_019270": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_019363": [
+    {
+      "token": "expected number of coin flips",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_019494": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_019614": [
+    {
+      "token": "(-1, -3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, -1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_019722": [
+    {
+      "token": "(2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(8,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_019737": [
+    {
+      "token": "(2, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_019786": [
+    {
+      "token": "(0,6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020223": [
+    {
+      "token": "(0, 1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020234": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020312": [
+    {
+      "token": "expected value",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020441": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020550": [
+    {
+      "token": "x + y + z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020593": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020665": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020703": [
+    {
+      "token": "xyz = -1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020796": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020829": [
+    {
+      "token": "unit disk",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020854": [
+    {
+      "token": "3x3 matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020925": [
+    {
+      "token": "hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_020937": [
+    {
+      "token": "unit sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_021056": [
+    {
+      "token": "three",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "four",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_021063": [
+    {
+      "token": "unit disk",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_021089": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_021335": [
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_021551": [
+    {
+      "token": "z = -3i",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = 3i",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_021664": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_021675": [
+    {
+      "token": "X=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_021736": [
+    {
+      "token": "y = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_021737": [
+    {
+      "token": "circle",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "square",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "triangle",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_021838": [
+    {
+      "token": "x+y+z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_021884": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_021982": [
+    {
+      "token": "(2,9,12)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022000": [
+    {
+      "token": "(1,3,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,9)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,12)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(6,11)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(7,10,8)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022004": [
+    {
+      "token": "(2, 3, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5, 7, 9)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022141": [
+    {
+      "token": "(0, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022195": [
+    {
+      "token": "genus",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022303": [
+    {
+      "token": "expected number of steps",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "transition matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022309": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022330": [
+    {
+      "token": "5 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022344": [
+    {
+      "token": "2 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022510": [
+    {
+      "token": "(-1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(6, 4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4, 8)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1, 8)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022513": [
+    {
+      "token": "(1,-2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,1,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022514": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022574": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022593": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022729": [
+    {
+      "token": "(1,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x+y=5",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022889": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_022979": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "characteristic polynomial",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_023023": [
+    {
+      "token": "automorphisms",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_023161": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_023252": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_023494": [
+    {
+      "token": "unit ball",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_023533": [
+    {
+      "token": "(2,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_023581": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_023601": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_023723": [
+    {
+      "token": "(3,4,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_023812": [
+    {
+      "token": "y = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_023952": [
+    {
+      "token": "cylinder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_023981": [
+    {
+      "token": "expected value",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_024232": [
+    {
+      "token": "unit disk",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_024337": [
+    {
+      "token": "Galois group",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_024379": [
+    {
+      "token": "seven",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_024589": [
+    {
+      "token": "(1, 2, 5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_024591": [
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_024635": [
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z=2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_024862": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_024899": [
+    {
+      "token": "x+y+z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_024920": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x + y + z = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_024927": [
+    {
+      "token": "nine",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_025024": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_025046": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,4,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,3,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_025070": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(9,9)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(6,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(6,6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_025099": [
+    {
+      "token": "(3,4,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_025115": [
+    {
+      "token": "z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_025174": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_025679": [
+    {
+      "token": "x = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_025689": [
+    {
+      "token": "y=2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_026064": [
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_026139": [
+    {
+      "token": "x + y + z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_026188": [
+    {
+      "token": "x+y+z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_026241": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_026350": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_026437": [
+    {
+      "token": "(1, 6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3, 5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(7, 11)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_026454": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_026477": [
+    {
+      "token": "z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_026623": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_026822": [
+    {
+      "token": "units digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_026953": [
+    {
+      "token": "z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027012": [
+    {
+      "token": "expected number of coin tosses",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027030": [
+    {
+      "token": "(1, 0, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(7, 3, 5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3, 1, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027037": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027064": [
+    {
+      "token": "cube",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027071": [
+    {
+      "token": "Galois group",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027119": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027170": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027362": [
+    {
+      "token": "transition matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027366": [
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027633": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027728": [
+    {
+      "token": "z=-i",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027808": [
+    {
+      "token": "(1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027871": [
+    {
+      "token": "positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027874": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(10,10,10)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_027890": [
+    {
+      "token": "(70, 30)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028022": [
+    {
+      "token": "x=-3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028056": [
+    {
+      "token": "ab + bc + ca = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028156": [
+    {
+      "token": "natural numbers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028176": [
+    {
+      "token": "sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028193": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028280": [
+    {
+      "token": "z = -2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028343": [
+    {
+      "token": "z = -1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028618": [
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028670": [
+    {
+      "token": "(0,0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,-1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-5,4,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028690": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,4,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028700": [
+    {
+      "token": "(-1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028713": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_028790": [
+    {
+      "token": "(1,2,3,4,5,6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_029059": [
+    {
+      "token": "(2,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_029120": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_029196": [
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_029290": [
+    {
+      "token": "regular hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_029365": [
+    {
+      "token": "x + y + z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_029505": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_029647": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_029678": [
+    {
+      "token": "(0,0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_029789": [
+    {
+      "token": "z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_029863": [
+    {
+      "token": "(3,-2,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x-2y-2z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,-1,-6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_029898": [
+    {
+      "token": "square",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_030265": [
+    {
+      "token": "(-1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_030394": [
+    {
+      "token": "dimension",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_030937": [
+    {
+      "token": "z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z=-1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_030976": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,-2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_031022": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_031154": [
+    {
+      "token": "(3,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_031438": [
+    {
+      "token": "x=-1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x+z=3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_031480": [
+    {
+      "token": "(2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_031602": [
+    {
+      "token": "(2,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_031697": [
+    {
+      "token": "E=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_031777": [
+    {
+      "token": "(-1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_031965": [
+    {
+      "token": "AB=3",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "BC=5",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "AC=7",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032038": [
+    {
+      "token": "x + y + z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "first octant",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032214": [
+    {
+      "token": "x+y=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032230": [
+    {
+      "token": "first octant",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032272": [
+    {
+      "token": "plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032338": [
+    {
+      "token": "regular hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032399": [
+    {
+      "token": "xy=4",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "xy=8",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032435": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032482": [
+    {
+      "token": "x=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032488": [
+    {
+      "token": "characteristic polynomial",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032769": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032792": [
+    {
+      "token": "x = 0.500",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032805": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032807": [
+    {
+      "token": "3x3 matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_032818": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_033134": [
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_033299": [
+    {
+      "token": "ring homomorphisms",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_033338": [
+    {
+      "token": "(15, -3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_033432": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_033753": [
+    {
+      "token": "3kg",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "1kg",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "11kg",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "12kg",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "13kg",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_033834": [
+    {
+      "token": "a=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_033979": [
+    {
+      "token": "z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_034002": [
+    {
+      "token": "(1, 1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3, 1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_034207": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_034349": [
+    {
+      "token": "(0, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_034445": [
+    {
+      "token": "(3, 4, 5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_034698": [
+    {
+      "token": "(1, 0, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_034799": [
+    {
+      "token": "(2, 3, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_034850": [
+    {
+      "token": "z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_034862": [
+    {
+      "token": "(-1, -1, -1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_034906": [
+    {
+      "token": "unit sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_034918": [
+    {
+      "token": "cube",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_034929": [
+    {
+      "token": "(0, 3, 4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_034984": [
+    {
+      "token": "(4,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035028": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035073": [
+    {
+      "token": "(4,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035152": [
+    {
+      "token": "(2, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035258": [
+    {
+      "token": "xy-plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035391": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035412": [
+    {
+      "token": "paraboloid",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 1, 8)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035478": [
+    {
+      "token": "(3, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035516": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035547": [
+    {
+      "token": "(-1, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035686": [
+    {
+      "token": "z = 4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035713": [
+    {
+      "token": "determinant",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035739": [
+    {
+      "token": "five",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035759": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035777": [
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035813": [
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035814": [
+    {
+      "token": "(2,1,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,2,10)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,1,7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035819": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035854": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035882": [
+    {
+      "token": "(0,2,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035894": [
+    {
+      "token": "z=4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035920": [
+    {
+      "token": "(3,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_035937": [
+    {
+      "token": "t=1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "t=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036097": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036157": [
+    {
+      "token": "(-2, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036357": [
+    {
+      "token": "(3, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036444": [
+    {
+      "token": "(-1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036451": [
+    {
+      "token": "trace",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036518": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036565": [
+    {
+      "token": "dimension",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036586": [
+    {
+      "token": "X=0.5",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036656": [
+    {
+      "token": "AB = 2011",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036727": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036732": [
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z=3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036766": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_036989": [
+    {
+      "token": "xy=1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "xy=-1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037051": [
+    {
+      "token": "z = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037112": [
+    {
+      "token": "plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037157": [
+    {
+      "token": "expected number of steps",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037172": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037185": [
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037213": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037269": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037277": [
+    {
+      "token": "(2,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037289": [
+    {
+      "token": "positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037306": [
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037413": [
+    {
+      "token": "xy-plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "paraboloid",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "cylinder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037417": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037535": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037542": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037568": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037629": [
+    {
+      "token": "(3, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037672": [
+    {
+      "token": "y=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037713": [
+    {
+      "token": "xyz = 32",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037842": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037852": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,4,6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,6,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037874": [
+    {
+      "token": "first digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037953": [
+    {
+      "token": "z=3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_037973": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038114": [
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y=-1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038178": [
+    {
+      "token": "x+y+z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038294": [
+    {
+      "token": "(0,-5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038302": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038388": [
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038489": [
+    {
+      "token": "(1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038566": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038686": [
+    {
+      "token": "cube",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038694": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038728": [
+    {
+      "token": "x+y+z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038748": [
+    {
+      "token": "expected number of steps",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038761": [
+    {
+      "token": "(2,0,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,0,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038782": [
+    {
+      "token": "z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038836": [
+    {
+      "token": "z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038856": [
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_038914": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_039277": [
+    {
+      "token": "(2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-2,-2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,-2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_039442": [
+    {
+      "token": "z = i",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = -i",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_039446": [
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_039456": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_039613": [
+    {
+      "token": "(1, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_039765": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_039781": [
+    {
+      "token": "GF(2)",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_039881": [
+    {
+      "token": "last digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_039945": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_040201": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_040237": [
+    {
+      "token": "regular hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_040313": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_040319": [
+    {
+      "token": "(-2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_040454": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_040543": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_040612": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_040682": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_040693": [
+    {
+      "token": "xy=10",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "xy=16",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_040815": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_040823": [
+    {
+      "token": "GF(64)",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_040871": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,4,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,4,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_041025": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = 8",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_041062": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_041248": [
+    {
+      "token": "trace",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "determinant",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "characteristic polynomial",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_041264": [
+    {
+      "token": "x = -1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x + z = 3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_041333": [
+    {
+      "token": "(3,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_041560": [
+    {
+      "token": "(3, -5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-2, -7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_041584": [
+    {
+      "token": "(6, 8, 5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3, 4, 5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_041765": [
+    {
+      "token": "z = 4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_041897": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_041907": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_041944": [
+    {
+      "token": "(-2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042018": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042026": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042093": [
+    {
+      "token": "plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042123": [
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042147": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042297": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042310": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042338": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042490": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042567": [
+    {
+      "token": "x=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042654": [
+    {
+      "token": "z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = -1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042682": [
+    {
+      "token": "x + y + z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042713": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042773": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042827": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_042976": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_043163": [
+    {
+      "token": "z=2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_043169": [
+    {
+      "token": "(0, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_043309": [
+    {
+      "token": "x+y=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_043466": [
+    {
+      "token": "x=1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x=2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_043567": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_043676": [
+    {
+      "token": "(2,2,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,4,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_043929": [
+    {
+      "token": "xy = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_043941": [
+    {
+      "token": "x+y+4=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y=-5",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_043943": [
+    {
+      "token": "z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_044015": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,4,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_044158": [
+    {
+      "token": "determinant",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_044254": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_044404": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_044416": [
+    {
+      "token": "plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "cylinder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_044513": [
+    {
+      "token": "a + 2b + 3c = 15",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_044542": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_044882": [
+    {
+      "token": "(-1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_045119": [
+    {
+      "token": "y = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_045288": [
+    {
+      "token": "expected value",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_045550": [
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z=3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_045588": [
+    {
+      "token": "expected number of coin tosses",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_045850": [
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_045952": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_046332": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_046514": [
+    {
+      "token": "xyz=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_046719": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x=0.1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_046743": [
+    {
+      "token": "x+y+z=60",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_046912": [
+    {
+      "token": "x=1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x=2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_046978": [
+    {
+      "token": "(2,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_047022": [
+    {
+      "token": "two positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_047032": [
+    {
+      "token": "Galois group",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_047420": [
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_047450": [
+    {
+      "token": "positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_047551": [
+    {
+      "token": "expected number of coin tosses",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_047738": [
+    {
+      "token": "(2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_047825": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_047897": [
+    {
+      "token": "x = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_048042": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_048093": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_048310": [
+    {
+      "token": "(1,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_048350": [
+    {
+      "token": "x+y+z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_048357": [
+    {
+      "token": "xy=2",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "xy=4",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x=2",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y=3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_048466": [
+    {
+      "token": "GF(2)",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_048520": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_048664": [
+    {
+      "token": "(-3,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_048779": [
+    {
+      "token": "cube",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_048825": [
+    {
+      "token": "z = 4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_048942": [
+    {
+      "token": "z=-1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_048990": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_049059": [
+    {
+      "token": "genus",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_049145": [
+    {
+      "token": "hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_049169": [
+    {
+      "token": "ab + bc + ca = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_049232": [
+    {
+      "token": "x - 2y - 2z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_049332": [
+    {
+      "token": "(-1,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_049380": [
+    {
+      "token": "x + y + z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_049431": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_049437": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,4,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,4,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_049511": [
+    {
+      "token": "x = -1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_049640": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_049861": [
+    {
+      "token": "y=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x=4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_049926": [
+    {
+      "token": "(16, 64)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_050083": [
+    {
+      "token": "ring homomorphisms",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_050086": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_050145": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_050223": [
+    {
+      "token": "z = i",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_050428": [
+    {
+      "token": "n=10",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_050735": [
+    {
+      "token": "y = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_050812": [
+    {
+      "token": "z = i",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_050869": [
+    {
+      "token": "(3,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_050891": [
+    {
+      "token": "(0, 0, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051017": [
+    {
+      "token": "28 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051176": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051203": [
+    {
+      "token": "(4,8)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051333": [
+    {
+      "token": "(2, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 5, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051350": [
+    {
+      "token": "(1.25, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051354": [
+    {
+      "token": "t = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051392": [
+    {
+      "token": "expected number of coin flips",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051483": [
+    {
+      "token": "z=4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051538": [
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051611": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-2,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051639": [
+    {
+      "token": "genus",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051685": [
+    {
+      "token": "(2,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,3,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051710": [
+    {
+      "token": "x = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x = 8",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051790": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051909": [
+    {
+      "token": "a+b+c=3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_051984": [
+    {
+      "token": "(0, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_052013": [
+    {
+      "token": "k=4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_052037": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_052265": [
+    {
+      "token": "dimension",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_052416": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "determinant",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_052431": [
+    {
+      "token": "(-1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_052645": [
+    {
+      "token": "(1, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_052736": [
+    {
+      "token": "9 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_052792": [
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_052876": [
+    {
+      "token": "unit sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_052990": [
+    {
+      "token": "x = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_053196": [
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_053252": [
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_053327": [
+    {
+      "token": "regular hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_053376": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-2, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-2, -2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, -2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_053539": [
+    {
+      "token": "unit disk",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_053679": [
+    {
+      "token": "(1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_053771": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_054032": [
+    {
+      "token": "(4, 4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_054187": [
+    {
+      "token": "x+y=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_054220": [
+    {
+      "token": "hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_054345": [
+    {
+      "token": "(2, -1, 3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 1, -2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1, 2, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 0, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_054450": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_054467": [
+    {
+      "token": "ring homomorphisms",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_054548": [
+    {
+      "token": "(-5,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_054702": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_054711": [
+    {
+      "token": "(1,1,1,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,0,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_054802": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(10,10)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(7,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(7,7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_054848": [
+    {
+      "token": "unit sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_055015": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_055151": [
+    {
+      "token": "(-1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_055378": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_055443": [
+    {
+      "token": "(3,4,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_055537": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_055565": [
+    {
+      "token": "x=1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x=2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_055681": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_055748": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_055888": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_055968": [
+    {
+      "token": "x+y+z=3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_056006": [
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_056125": [
+    {
+      "token": "(5,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_056153": [
+    {
+      "token": "unit sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_056190": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_056653": [
+    {
+      "token": "xy-plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_056718": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "3x3 matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_056746": [
+    {
+      "token": "x = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_056881": [
+    {
+      "token": "x-y+z=6",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x+y=2",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_056891": [
+    {
+      "token": "(1, 1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 2, 4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_056942": [
+    {
+      "token": "(0, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 2, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057009": [
+    {
+      "token": "automorphisms",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057033": [
+    {
+      "token": "automorphisms",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057112": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057236": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057252": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057316": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057330": [
+    {
+      "token": "40 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057420": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057437": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057519": [
+    {
+      "token": "GF(2)",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057586": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057692": [
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z=2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057778": [
+    {
+      "token": "(1.25, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057853": [
+    {
+      "token": "x + y = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_057962": [
+    {
+      "token": "(3, 0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058025": [
+    {
+      "token": "(12, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(10, 8)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5, 6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058082": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058162": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = 3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058212": [
+    {
+      "token": "z = -1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058216": [
+    {
+      "token": "(5, 3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058310": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058346": [
+    {
+      "token": "genus",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058441": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058477": [
+    {
+      "token": "(8,3,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058594": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058725": [
+    {
+      "token": "sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058733": [
+    {
+      "token": "12 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058744": [
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058924": [
+    {
+      "token": "(0, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_058934": [
+    {
+      "token": "(0, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_059039": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_059168": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_059509": [
+    {
+      "token": "positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_059683": [
+    {
+      "token": "(5, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(7, 11)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_059705": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = i",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_059853": [
+    {
+      "token": "GF(64)",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_060005": [
+    {
+      "token": "genus",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_060092": [
+    {
+      "token": "z=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_060140": [
+    {
+      "token": "expected number of coin tosses",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_060178": [
+    {
+      "token": "z = 4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_060253": [
+    {
+      "token": "(3,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_060460": [
+    {
+      "token": "circle",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_060690": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_060772": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_060849": [
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_060932": [
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_060940": [
+    {
+      "token": "matrices",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061036": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061054": [
+    {
+      "token": "trace",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061148": [
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061256": [
+    {
+      "token": "positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061258": [
+    {
+      "token": "z = 4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061280": [
+    {
+      "token": "x + y + z = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061301": [
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061332": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061443": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061456": [
+    {
+      "token": "(-1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061502": [
+    {
+      "token": "(3,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061522": [
+    {
+      "token": "(3,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x=4",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061538": [
+    {
+      "token": "squares",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061570": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061795": [
+    {
+      "token": "z=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061953": [
+    {
+      "token": "(-1,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_061960": [
+    {
+      "token": "(-2,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_062108": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_062218": [
+    {
+      "token": "(-2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_062244": [
+    {
+      "token": "determinant",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_062257": [
+    {
+      "token": "z = -1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_062275": [
+    {
+      "token": "(0, 0, 100)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_062445": [
+    {
+      "token": "(1, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_062462": [
+    {
+      "token": "circles",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_062466": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_062550": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_062560": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x=1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_062642": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063088": [
+    {
+      "token": "(3, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063170": [
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063236": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063359": [
+    {
+      "token": "(5,12)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063405": [
+    {
+      "token": "determinant",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063516": [
+    {
+      "token": "z=i",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z=-i",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063581": [
+    {
+      "token": "matrix",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063598": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,4,6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,6,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063674": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "y = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "z = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063734": [
+    {
+      "token": "x + y + z = 4",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x + y - z = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x - y + z = 2",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063792": [
+    {
+      "token": "sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063871": [
+    {
+      "token": "determinant",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_063990": [
+    {
+      "token": "(-2, 4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_064430": [
+    {
+      "token": "squares",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "(35, 65)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_064462": [
+    {
+      "token": "triangles",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_064762": [
+    {
+      "token": "(0,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_064786": [
+    {
+      "token": "40 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "45 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_065043": [
+    {
+      "token": "temperature",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_065087": [
+    {
+      "token": "days",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_065132": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_065160": [
+    {
+      "token": "plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "regular hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_065419": [
+    {
+      "token": "6 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "2 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_065433": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_065515": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_065651": [
+    {
+      "token": "(0,2004)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,99)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(99,99)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(99,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_065690": [
+    {
+      "token": "(7,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_065822": [
+    {
+      "token": "cube",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_065910": [
+    {
+      "token": "square",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_066100": [
+    {
+      "token": "temperature",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_066144": [
+    {
+      "token": "(0, 16)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(6, 10)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_066179": [
+    {
+      "token": "AC = 9",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "BC = 6",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_066202": [
+    {
+      "token": "cubes",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_066367": [
+    {
+      "token": "triangles",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "square",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_066845": [
+    {
+      "token": "7 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "46 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067013": [
+    {
+      "token": "AD = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067181": [
+    {
+      "token": "cube",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067323": [
+    {
+      "token": "first octant",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067359": [
+    {
+      "token": "squares",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067414": [
+    {
+      "token": "seven",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067463": [
+    {
+      "token": "sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067482": [
+    {
+      "token": "square",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067524": [
+    {
+      "token": "2 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067604": [
+    {
+      "token": "last digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "last two digits",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067671": [
+    {
+      "token": "5 seconds",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067761": [
+    {
+      "token": "triangles",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "eight",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067810": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,20)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(20,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(20,20)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067816": [
+    {
+      "token": "AB = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067826": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067870": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_067888": [
+    {
+      "token": "temperature",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068092": [
+    {
+      "token": "minutes",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068099": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068200": [
+    {
+      "token": "(1, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068219": [
+    {
+      "token": "square",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068337": [
+    {
+      "token": "circle",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068344": [
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068349": [
+    {
+      "token": "129 seconds",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068438": [
+    {
+      "token": "temperature",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068492": [
+    {
+      "token": "minutes",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068567": [
+    {
+      "token": "(1, -2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068654": [
+    {
+      "token": "triangles",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068797": [
+    {
+      "token": "7 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "46 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_068799": [
+    {
+      "token": "(-1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_069315": [
+    {
+      "token": "temperature",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_069337": [
+    {
+      "token": "(1, -2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_069476": [
+    {
+      "token": "circles",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_069820": [
+    {
+      "token": "last digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_069846": [
+    {
+      "token": "circles",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_069922": [
+    {
+      "token": "20 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_070061": [
+    {
+      "token": "squares",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_070106": [
+    {
+      "token": "triangles",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_070249": [
+    {
+      "token": "five",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_070587": [
+    {
+      "token": "(121, 212)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_070638": [
+    {
+      "token": "five",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_070796": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0, 65)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(65, 65)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(65, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071074": [
+    {
+      "token": "Five",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071126": [
+    {
+      "token": "B Y = 3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071287": [
+    {
+      "token": "12 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "20 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "5 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071309": [
+    {
+      "token": "days",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071436": [
+    {
+      "token": "square",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071437": [
+    {
+      "token": "x + y = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071512": [
+    {
+      "token": "49 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071670": [
+    {
+      "token": "triangles",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071731": [
+    {
+      "token": "cube",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071773": [
+    {
+      "token": "7 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "46 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071797": [
+    {
+      "token": "first digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "last digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071962": [
+    {
+      "token": "10 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "20 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "5 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071971": [
+    {
+      "token": "first digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_071984": [
+    {
+      "token": "triangles",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072027": [
+    {
+      "token": "CD = 8",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072079": [
+    {
+      "token": "AB=2",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "PO=3",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072164": [
+    {
+      "token": "x = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072268": [
+    {
+      "token": "4 seconds",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072445": [
+    {
+      "token": "days",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072602": [
+    {
+      "token": "positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072614": [
+    {
+      "token": "(-1,-11)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,17)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072620": [
+    {
+      "token": "(2,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-1,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072705": [
+    {
+      "token": "(2,4,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,4,-7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072820": [
+    {
+      "token": "(-2, 6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-6, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072856": [
+    {
+      "token": "8 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "15 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072892": [
+    {
+      "token": "square",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_072941": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073000": [
+    {
+      "token": "15 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "10 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "8 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "3 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073008": [
+    {
+      "token": "(1, 3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2006, 2007)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073123": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073129": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073144": [
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073155": [
+    {
+      "token": "hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073211": [
+    {
+      "token": "(-2, 4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3, -2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(8, 4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073264": [
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073271": [
+    {
+      "token": "6 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "4 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073281": [
+    {
+      "token": "hours",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "minutes",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073327": [
+    {
+      "token": "hours",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073462": [
+    {
+      "token": "(1, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(7, 10)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, 12)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073496": [
+    {
+      "token": "200 kg",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073585": [
+    {
+      "token": "(-5,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,-7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073599": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073616": [
+    {
+      "token": "(-2, 6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-4, -2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073620": [
+    {
+      "token": "3 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073668": [
+    {
+      "token": "8:00",
+      "category": "clock_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073707": [
+    {
+      "token": "8 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073740": [
+    {
+      "token": "least common multiple",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "greatest common divisor",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073765": [
+    {
+      "token": "square",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073774": [
+    {
+      "token": "10 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "12 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073779": [
+    {
+      "token": "hours",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_073925": [
+    {
+      "token": "(4,-5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074121": [
+    {
+      "token": "(3,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(6,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074125": [
+    {
+      "token": "(1,4,-2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074150": [
+    {
+      "token": "(-3,-1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074153": [
+    {
+      "token": "(0,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(8,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074157": [
+    {
+      "token": "1 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "15 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "10 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074179": [
+    {
+      "token": "octagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074190": [
+    {
+      "token": "(3,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074210": [
+    {
+      "token": "five",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074214": [
+    {
+      "token": "arithmetic sequence",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074267": [
+    {
+      "token": "(-3,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,-4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074301": [
+    {
+      "token": "four",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "nine",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074330": [
+    {
+      "token": "(6,8)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074332": [
+    {
+      "token": "circles",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-4,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074350": [
+    {
+      "token": "octagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074371": [
+    {
+      "token": "x=0",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074427": [
+    {
+      "token": "5 days",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "3 days",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "85 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074437": [
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074464": [
+    {
+      "token": "plane",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074510": [
+    {
+      "token": "45 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "2:00",
+      "category": "clock_value",
+      "stage": "gs"
+    },
+    {
+      "token": "4:00",
+      "category": "clock_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074541": [
+    {
+      "token": "three",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074622": [
+    {
+      "token": "(-1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,-1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x + 2y + 3z = 5",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074641": [
+    {
+      "token": "tens digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "units digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074660": [
+    {
+      "token": "706 days",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074778": [
+    {
+      "token": "minutes",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074833": [
+    {
+      "token": "positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074838": [
+    {
+      "token": "two positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074876": [
+    {
+      "token": "minutes",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "18 inches",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074880": [
+    {
+      "token": "expected value",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074903": [
+    {
+      "token": "units digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074904": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074909": [
+    {
+      "token": "(-3,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_074970": [
+    {
+      "token": "days",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075014": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075046": [
+    {
+      "token": "regular hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075148": [
+    {
+      "token": "seven",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075199": [
+    {
+      "token": "(9, 1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5, 5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075281": [
+    {
+      "token": "units digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075300": [
+    {
+      "token": "1:00",
+      "category": "clock_value",
+      "stage": "gs"
+    },
+    {
+      "token": "2:00",
+      "category": "clock_value",
+      "stage": "gs"
+    },
+    {
+      "token": "1:30",
+      "category": "clock_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075303": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075385": [
+    {
+      "token": "nine",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075429": [
+    {
+      "token": "3 inches",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "4 inches",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075438": [
+    {
+      "token": "cubes",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075494": [
+    {
+      "token": "(-4,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5,-4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075516": [
+    {
+      "token": "AB=10",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "AC=6",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "BC=8",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075533": [
+    {
+      "token": "15 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "1:00",
+      "category": "clock_value",
+      "stage": "gs"
+    },
+    {
+      "token": "2:00",
+      "category": "clock_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075550": [
+    {
+      "token": "(5,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075565": [
+    {
+      "token": "(6,-10)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(8,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075576": [
+    {
+      "token": "8 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "32 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075593": [
+    {
+      "token": "eight",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "nine",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075687": [
+    {
+      "token": "arithmetic sequence",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075829": [
+    {
+      "token": "four",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "five",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075833": [
+    {
+      "token": "20 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "30 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075869": [
+    {
+      "token": "15 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "20 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "25 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075942": [
+    {
+      "token": "tens digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "units digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_075977": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076036": [
+    {
+      "token": "y = 0",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "x + 3y = 12",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076045": [
+    {
+      "token": "y=13",
+      "category": "equation_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(7,13)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076059": [
+    {
+      "token": "minutes",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076060": [
+    {
+      "token": "6 inches",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "8 inches",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076133": [
+    {
+      "token": "tens digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "units digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076186": [
+    {
+      "token": "(1,6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076188": [
+    {
+      "token": "positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076198": [
+    {
+      "token": "hours",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076216": [
+    {
+      "token": "arithmetic sequence",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076220": [
+    {
+      "token": "four",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076259": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076276": [
+    {
+      "token": "(1,2,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076320": [
+    {
+      "token": "tens digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "units digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076330": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(7,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076335": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076382": [
+    {
+      "token": "positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076446": [
+    {
+      "token": "(1,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5,7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076453": [
+    {
+      "token": "(2,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3, 4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076529": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076537": [
+    {
+      "token": "(4, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-4, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076632": [
+    {
+      "token": "(-3,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076680": [
+    {
+      "token": "circles",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076858": [
+    {
+      "token": "hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076903": [
+    {
+      "token": "(4,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076908": [
+    {
+      "token": "(0,7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(12,-2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(7,8)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076919": [
+    {
+      "token": "regular hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076927": [
+    {
+      "token": "(1, 3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076933": [
+    {
+      "token": "(0,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(6,9)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076940": [
+    {
+      "token": "(1, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_076989": [
+    {
+      "token": "hours",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077022": [
+    {
+      "token": "octagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077035": [
+    {
+      "token": "squares",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077134": [
+    {
+      "token": "triangle",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077155": [
+    {
+      "token": "(0,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,0,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,4,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,4,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,0,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,4,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,4,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077166": [
+    {
+      "token": "(3,17)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(9,-4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077200": [
+    {
+      "token": "(2,1,-2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,6,15)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077272": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077343": [
+    {
+      "token": "(3,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(7,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077351": [
+    {
+      "token": "two positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077357": [
+    {
+      "token": "greatest common divisor",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "least common multiple",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077366": [
+    {
+      "token": "minutes",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "30 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077371": [
+    {
+      "token": "(0,1,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,3,6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,3,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077386": [
+    {
+      "token": "y=6",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077396": [
+    {
+      "token": "arithmetic sequence",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077449": [
+    {
+      "token": "20cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "8cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077466": [
+    {
+      "token": "least common multiple",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077480": [
+    {
+      "token": "four",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077492": [
+    {
+      "token": "20 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077527": [
+    {
+      "token": "12 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "3 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077546": [
+    {
+      "token": "circle",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077600": [
+    {
+      "token": "7 days",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "0 days",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077611": [
+    {
+      "token": "minutes",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077616": [
+    {
+      "token": "(5,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077648": [
+    {
+      "token": "square",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077657": [
+    {
+      "token": "natural numbers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077681": [
+    {
+      "token": "natural numbers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077783": [
+    {
+      "token": "triangle",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "6 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077784": [
+    {
+      "token": "positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077867": [
+    {
+      "token": "seconds",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077871": [
+    {
+      "token": "(2,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_077991": [
+    {
+      "token": "(-4,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1,-75)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078028": [
+    {
+      "token": "hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078048": [
+    {
+      "token": "hours",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "eight",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078056": [
+    {
+      "token": "four",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078081": [
+    {
+      "token": "(8,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078089": [
+    {
+      "token": "units digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078093": [
+    {
+      "token": "hexagon",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078128": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2, 3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(6, 3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078174": [
+    {
+      "token": "(2,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078188": [
+    {
+      "token": "20 seconds",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078230": [
+    {
+      "token": "units digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078318": [
+    {
+      "token": "circles",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078386": [
+    {
+      "token": "Sphere",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078437": [
+    {
+      "token": "(0, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-5, -1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-4, -6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(1, -5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078452": [
+    {
+      "token": "(3,7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078473": [
+    {
+      "token": "(6,12)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078498": [
+    {
+      "token": "four",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078523": [
+    {
+      "token": "square",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "circle",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078551": [
+    {
+      "token": "(0,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078561": [
+    {
+      "token": "5 inches",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "2 inches",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078593": [
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078638": [
+    {
+      "token": "units digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "tens digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078716": [
+    {
+      "token": "hours",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078736": [
+    {
+      "token": "eight",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_078925": [
+    {
+      "token": "(1, 7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(13, 16)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079030": [
+    {
+      "token": "expected value",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079041": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5,7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079128": [
+    {
+      "token": "(0,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2008,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2008,2009)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(0,2009)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079138": [
+    {
+      "token": "(2,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(9,11)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(5,7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(11,17)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079181": [
+    {
+      "token": "x = 1",
+      "category": "equation_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079207": [
+    {
+      "token": "6 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079254": [
+    {
+      "token": "minutes",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "2 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079263": [
+    {
+      "token": "(5,15)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079266": [
+    {
+      "token": "last two digits",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079273": [
+    {
+      "token": "4 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "10 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079325": [
+    {
+      "token": "4 inches",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "10 inches",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079412": [
+    {
+      "token": "three",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079422": [
+    {
+      "token": "(9, 20)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(49, 55)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079470": [
+    {
+      "token": "(0,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-8,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079653": [
+    {
+      "token": "(1,1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079664": [
+    {
+      "token": "positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079677": [
+    {
+      "token": "natural numbers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079723": [
+    {
+      "token": "(2, 5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079725": [
+    {
+      "token": "(12,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-5,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079742": [
+    {
+      "token": "seconds",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079754": [
+    {
+      "token": "3 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079757": [
+    {
+      "token": "hours",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079844": [
+    {
+      "token": "last digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079861": [
+    {
+      "token": "two positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079877": [
+    {
+      "token": "45 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079955": [
+    {
+      "token": "cubes",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079970": [
+    {
+      "token": "(1,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(9,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079979": [
+    {
+      "token": "first digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_079991": [
+    {
+      "token": "(3,-5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-9,1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080007": [
+    {
+      "token": "(-3, 4)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-2, 0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080031": [
+    {
+      "token": "(1, 7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3, 11)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080034": [
+    {
+      "token": "20 minutes",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080038": [
+    {
+      "token": "(-1, 6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(20, 3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080083": [
+    {
+      "token": "tens digit",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080167": [
+    {
+      "token": "five",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080219": [
+    {
+      "token": "(1,-5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(11,7)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080234": [
+    {
+      "token": "least common multiple",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "greatest common divisor",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080253": [
+    {
+      "token": "(4,2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080272": [
+    {
+      "token": "(4,5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(8,17)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080283": [
+    {
+      "token": "(-1,6)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(2,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080436": [
+    {
+      "token": "(9, -5)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(-3, -1)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080496": [
+    {
+      "token": "hours",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080529": [
+    {
+      "token": "remainder",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080597": [
+    {
+      "token": "12 days",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080628": [
+    {
+      "token": "72 cm",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080630": [
+    {
+      "token": "4 inches",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080687": [
+    {
+      "token": "22 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "15 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080705": [
+    {
+      "token": "origin",
+      "category": "named_quantity",
+      "stage": "gs"
+    },
+    {
+      "token": "(12,-4,3)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080730": [
+    {
+      "token": "(-1, 2)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(3,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(9,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080731": [
+    {
+      "token": "positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080763": [
+    {
+      "token": "(-2,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    },
+    {
+      "token": "(4,0)",
+      "category": "coordinate_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080769": [
+    {
+      "token": "squares",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080781": [
+    {
+      "token": "8 inches",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "10 inches",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080829": [
+    {
+      "token": "five",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080870": [
+    {
+      "token": "two positive integers",
+      "category": "named_quantity",
+      "stage": "gs"
+    }
+  ],
+  "dmgap_080902": [
+    {
+      "token": "8 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    },
+    {
+      "token": "3 hours",
+      "category": "measurement_value",
+      "stage": "gs"
+    }
+  ]
+}
