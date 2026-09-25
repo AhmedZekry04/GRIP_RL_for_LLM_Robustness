@@ -1,0 +1,17 @@
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lrrrrr}
+\toprule
+run & extract-fail & truncation & format-ok & mean completion tokens & acc spread (drop vs wrong) \\
+\midrule
+A0 & 0.0847 & 0.0307 & 0.9173 & 1273.9332 & 0.0057 \\
+A1 & 0.0357 & 0.0088 & 0.9645 & 1342.9460 & 0.0033 \\
+A2 & \textbf{0.0112} & \textbf{0.0052} & \textbf{0.9889} & 1152.9991 & 0.0010 \\
+A3g1.5 & 0.0291 & 0.0195 & 0.9716 & 1312.9144 & 0.0020 \\
+A3 & 0.1436 & 0.1375 & 0.8578 & 1582.5936 & 0.0098 \\
+\bottomrule
+\end{tabular}
+\caption{Generation health by ablation. The final column is the difference between variant accuracy with unscorable samples dropped from the denominator and with them counted wrong -- how much of each run's accuracy rests on that convention.}
+\label{tab:asymob_health}
+\end{table}

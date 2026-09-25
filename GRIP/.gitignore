@@ -1,0 +1,26 @@
+# Raw model outputs. One sample per line, up to ~180 MB per run, which is over
+# GitHub's 100 MB per-file limit. Regenerate with the eval_*.py scripts in
+# ablations/train/*/, then rebuild the aggregates with aggregate_*.py.
+**/generations.jsonl
+**/verified_generations.jsonl
+
+# Per-item aggregates (up to ~22 MB per run). Rebuild from the raw generations
+# with aggregate_asymob.py / aggregate_mathperturb.py.
+**/items.jsonl
+
+# Uncompressed copy of the DeepMathGAP source set. The canonical compressed
+# dataset lives in DeepMathGAP/data/final/ at the repository root.
+data/deepmathgap.jsonl
+
+# Training checkpoints and run logs (produced on the HPC cluster)
+checkpoints/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.DS_Store

@@ -1,0 +1,20 @@
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+family (ordered by distance from training) & A0 $\Delta$ & A0 RSR & A1 $\Delta$ & A1 RSR & A2 $\Delta$ & A2 RSR & A3g1.5 $\Delta$ & A3g1.5 RSR & A3 $\Delta$ & A3 RSR \\
+\midrule
+Numeric-One & 0.093 & 0.407 & 0.100 & 0.517 & 0.115 & 0.459 & 0.102 & 0.420 & 0.096 & 0.424 \\
+Numeric-All & 0.149 & 0.206 & 0.189 & 0.196 & 0.194 & 0.178 & 0.170 & 0.197 & 0.149 & 0.182 \\
+Numeric-All-S & 0.139 & 0.250 & 0.189 & 0.248 & 0.185 & 0.218 & 0.170 & 0.217 & 0.159 & 0.200 \\
+Symbolic & 0.126 & 0.281 & 0.180 & 0.248 & 0.154 & 0.313 & 0.156 & 0.242 & 0.144 & 0.284 \\
+Equivalence-One-Easy & 0.076 & 0.454 & 0.071 & 0.609 & 0.067 & 0.549 & 0.081 & 0.478 & 0.062 & 0.527 \\
+Equivalence-One-Hard & 0.151 & 0.224 & 0.157 & 0.337 & 0.155 & 0.311 & 0.160 & 0.235 & 0.140 & 0.251 \\
+Equivalence-All-Easy & 0.151 & 0.179 & 0.154 & 0.294 & 0.153 & 0.250 & 0.163 & 0.202 & 0.156 & 0.201 \\
+Equivalence-All-Hard & 0.207 & 0.024 & 0.253 & 0.030 & 0.238 & 0.020 & 0.227 & 0.019 & 0.212 & 0.024 \\
+\bottomrule
+\end{tabular}
+\caption{Per-family invariance gap $\Delta$ and relative success rate, by ablation. Families are ordered by distance from the training perturbations: Numeric matches the kernel perturbation seen in training, Symbolic matches surface renaming, and Equivalence is out of family -- nothing in training resembles it.}
+\label{tab:asymob_family}
+\end{table}

@@ -1,0 +1,17 @@
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lrrrrrrrrrrr}
+\toprule
+run & acc(original) & acc(simple) & acc(hard) & gap $\Delta$ & gap 95% CI & within-seed var & RSR simple & RSR hard & $\hat{R}$ global & mG-Pass@8 orig & frac fully inv. \\
+\midrule
+A0 & 0.573 & 0.493 & 0.270 & 0.191 & [0.155, 0.227] & 0.052 & 0.739 & 0.330 & 0.579 & 0.375 & 0.462 \\
+A1 & 0.660 & 0.618 & \textbf{0.390} & \textbf{0.156} & [0.122, 0.191] & 0.064 & 0.834 & \textbf{0.497} & 0.594 & 0.561 & 0.502 \\
+A2 & \textbf{0.672} & \textbf{0.633} & 0.380 & 0.166 & [0.130, 0.202] & 0.069 & \textbf{0.891} & 0.492 & \textbf{0.599} & \textbf{0.571} & \textbf{0.527} \\
+A3g1.5 & 0.604 & 0.545 & 0.311 & 0.176 & [0.138, 0.213] & 0.055 & 0.770 & 0.344 & 0.583 & 0.437 & 0.422 \\
+A3 & 0.549 & 0.453 & 0.276 & 0.185 & [0.148, 0.222] & 0.048 & 0.711 & 0.343 & 0.580 & 0.358 & 0.455 \\
+\bottomrule
+\end{tabular}
+\caption{MATH-Perturb main results on the 277 seeds shared by all five runs. Accuracy per arm, the invariance gap with its 95\% cluster-bootstrap interval over seeds, within-seed variance, relative success rate per arm, global $\hat{R}$ (an analogue -- see Fig.~8), mG-Pass@8 on originals, and the fraction of fully invariant seeds. Best per column in bold, except within-seed variance, which is left unbolded because a lower value is only better if accuracy holds -- at A3 it does not (Fig.~\ref{fig:mp_variance}).}
+\label{tab:mp_main}
+\end{table}

@@ -1,0 +1,27 @@
+{
+  "run_id": "a3_asymob_g15_20260918",
+  "ablation": "a0",
+  "benchmark": "asymob",
+  "git_commit": "unknown",
+  "vllm_version": "0.26.0",
+  "timestamp_start": "2026-09-20T05:29:18.954733+00:00",
+  "model": {
+    "name": "/rds/general/user/amz25/home/GRIP/train_a3/results/checkpoints/a3_grpo_grip_g1.5/final",
+    "dtype": "bfloat16"
+  },
+  "data_file": "/rds/general/user/amz25/home/GRIP/data/asymob_prepped.jsonl",
+  "generation": {
+    "temperature": 0.6,
+    "top_p": 0.95,
+    "max_new_tokens": 3072,
+    "max_model_len": 4096,
+    "n_samples": "from preprocessing (8 originals / 1 variants)",
+    "per_sample_seed": "GLOBAL_SEED + 1000003*row_idx + 7919*sample_idx"
+  },
+  "scaffold": "boxed",
+  "global_seed": 42,
+  "answer_extraction": "regex_boxed",
+  "verification": "offline (verify.py)",
+  "bootstrap_unit": "group_id",
+  "bootstrap_B": 10000
+}
