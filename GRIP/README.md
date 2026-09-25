@@ -4,7 +4,7 @@ GRIP (Group-Relative Invariance Penalty) adds an invariance penalty to GRPO, wit
 the aim of making a maths-reasoning model answer *rewritten* versions of a problem
 as reliably as it answers the original.
 
-This repository contains the training scripts, the evaluation runs, and the
+This folder contains the training scripts, the evaluation runs, and the
 analysis notebooks that test whether that works. It does not work as intended, and
 the analysis is set up to show why rather than to argue the point: the penalty
 reduces the spread of outcomes within a problem mostly by lowering accuracy, not by
@@ -102,6 +102,8 @@ cells until the aggregates are rebuilt.
 
 ## Setup
 
+From this `GRIP/` folder:
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate
@@ -143,9 +145,10 @@ which metrics to use and which to leave out.
 | file | rows | what it is |
 |---|---|---|
 | `ASyMOB_clean.jsonl` | 35,368 | ASyMOB regrouped by seed question (see below) |
-| `ASyMOB_clean_dedup.jsonl` | | deduplicated variant set |
-| `asymob_prepped.jsonl` | | ASyMOB in the prompt/answer schema the eval scripts read |
-| `deepmathgap_prepped.jsonl` | | DeepMathGAP training set in the trainer's schema |
+| `ASyMOB_clean_dedup.jsonl` | 2,949 | deduplicated variant set, 100 seeds |
+| `asymob_prepped.jsonl` | 35,368 | ASyMOB in the prompt/answer schema the eval scripts read |
+| `deepmathgap_prepped.jsonl` | 142,192 | DeepMathGAP training set in the trainer's schema (35,548 groups x 4) |
+| `deepmathgap_prepped_dropped.jsonl` | 2,036 | the 509 DeepMathGAP groups dropped because a gold answer could not be normalised |
 | `mathperturb_final.jsonl` | 834 | MATH-Perturb, 278 problems x 3 arms |
 
 ### Why ASyMOB needs regrouping
@@ -180,9 +183,11 @@ notebooks use it as the arm label.
 `Answer in Sympy` is the reliable ground-truth field. `Answer in Latex` is
 populated only for a subset of rows, mostly the originals.
 
-The uncompressed DeepMathGAP source file is not kept here. DeepMathGAP is
-maintained in its own repository; `preprocess/preprocess_deepmathgap.py` turns its
-released dataset into `data/deepmathgap_prepped.jsonl`, which is the file these
+The uncompressed DeepMathGAP source file is not kept here. The released dataset
+is [`DeepMathGAP/data/final/deepmathgap_v2.jsonl.gz`](../DeepMathGAP/data/final/deepmathgap_v2.jsonl.gz)
+at the repository root; `preprocess/preprocess_deepmathgap.py` (with the default
+`--drop_mode seed`, which drops a whole group if any of its rows has an unusable
+gold answer) turns it into `data/deepmathgap_prepped.jsonl`, which is the file these
 training runs actually consumed and is included here.
 
 ## Known caveats
