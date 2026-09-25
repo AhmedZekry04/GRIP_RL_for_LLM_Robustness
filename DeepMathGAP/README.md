@@ -384,7 +384,11 @@ Source dataset: [`zwhe99/DeepMath-103K`](https://huggingface.co/datasets/zwhe99/
 GAP code: [`YurenHao0426/GAP`](https://github.com/YurenHao0426/GAP) ·
 Answer checking: [`huggingface/math-verify`](https://github.com/huggingface/math-verify).
 
-## 7. Third-party attribution
+## 7. License and third-party attribution
+
+The code is released under the MIT License ([`LICENSE`](../LICENSE)). The
+dataset and audit files are released under CC BY 4.0
+([`data/LICENSE`](data/LICENSE)).
 
 - **DeepMath-103K** (He et al., 2025) is released under the MIT License.
   Every `question` and `answer` in `k = 0` rows, and the text that the

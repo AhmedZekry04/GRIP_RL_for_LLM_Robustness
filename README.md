@@ -10,3 +10,6 @@ DeepMathGAP is built from [DeepMath-103K](https://huggingface.co/datasets/zwhe99
 (MIT) using the perturbation framework and adapted code of
 [GAP](https://github.com/YurenHao0426/GAP) (CC BY 4.0); see
 [`DeepMathGAP/README.md`](DeepMathGAP/README.md) §6–7 for citations and attribution.
+
+**License:** code under MIT ([`LICENSE`](LICENSE)); the DeepMathGAP dataset under
+CC BY 4.0 ([`DeepMathGAP/data/LICENSE`](DeepMathGAP/data/LICENSE)).

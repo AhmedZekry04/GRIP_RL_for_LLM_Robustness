@@ -1,0 +1,41 @@
+DeepMathGAP dataset
+Copyright (c) 2026 Ahmed Zekry
+
+The files in this directory (final/ and audit/) are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+You may share and adapt them for any purpose, provided you give appropriate
+credit, link to the license, and indicate if changes were made. Please also
+cite DeepMath-103K and the GAP framework (see DeepMathGAP/README.md, §6).
+
+---
+
+Third-party material
+
+The problem statements and answers in this dataset are derived from
+DeepMath-103K (https://huggingface.co/datasets/zwhe99/DeepMath-103K),
+released under the MIT License:
+
+  Copyright (c) 2025 The DeepMath-103K authors (He et al.)
+
+  Permission is hereby granted, free of charge, to any person obtaining a
+  copy of this software and associated documentation files (the "Software"),
+  to deal in the Software without restriction, including without limitation
+  the rights to use, copy, modify, merge, publish, distribute, sublicense,
+  and/or sell copies of the Software, and to permit persons to whom the
+  Software is furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+  DEALINGS IN THE SOFTWARE.
+
+The perturbation taxonomy (GS / DLM / KV) follows the GAP framework
+(https://github.com/YurenHao0426/GAP, CC BY 4.0).
